@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "bebas_neue";
+    src: url('assets/fonts/bebas_neue/BebasNeue-Regular.eot');
+    src: url('assets/fonts/bebas_neue/BebasNeue-Regular.eot') format('embedded-opentype'),
+        url('assets/fonts/bebas_neue/BebasNeue-Regular.woff2') format('woff2'),
+        url('assets/fonts/bebas_neue/BebasNeue-Regular.woff') format('woff'),
+        url('assets/fonts/bebas_neue/BebasNeue-Regular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: "goblin";  
+   
+      src:  url('assets/fonts/goblin_one/GoblinOne-Regular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "abee";     
+      src:  url('assets/fonts/abee/ABeeZee-Regular.ttf') format('truetype');
+      src:  url('assets/fonts/abee/ABeeZee-Italic.ttf') format('ABeeZee-Italic');
+    font-weight: 100;
+    font-style: normal;
+}

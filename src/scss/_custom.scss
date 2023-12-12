@@ -1,0 +1,64 @@
+// Here you can add other styles
+.nav-item {
+    border-radius: 10px;
+
+}
+
+.nav-link .nav-item {
+    height: 40px;
+    margin: 15px;
+    font-size: 18px;
+    width: 180px;
+    border-radius: 10px;
+}
+
+.nav-link.active {
+    background: black;
+    border-radius: 10px;
+}
+
+// .nav-item:hover {
+//     background-color: black;
+//     border-radius: 20px;
+// }
+
+.sidebar-nav {
+
+
+
+    .nav-link {
+        background: none;
+        margin-top: 15px;
+        height: 40px;
+
+        &:hover {
+            border-radius: 10px;
+            background: rgb(0, 0, 0);
+        }
+
+        &.active {
+            background: rgb(0, 0, 0);
+        }
+
+
+
+    }
+}
+
+// .icon:hover {
+
+//     margin-top: -2px;
+//     background-color: rgb(73, 78, 146);
+//     border-radius: 3px;
+// }
+
+.div1:hover {
+
+    margin-top: -2px;
+    background-color: rgb(73, 78, 146);
+    border-radius: 3px;
+}
+
+.form-check-label{
+    font-weight: 650;
+}
